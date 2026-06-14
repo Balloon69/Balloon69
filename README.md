@@ -34,22 +34,6 @@ Always learning, always growing — *one commit at a time.*
 
 ---
 
-## 📊 GitHub Stats
-
-[![Balloon69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balloon69&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Balloon69)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balloon69&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Balloon69)
-
----
-
-## 🏆 Achievements
-
-- ⭐ Always pushing to **learn something new** every day
-- 🤝 Believer in the power of *open source collaboration*
-- 🧩 Enjoy solving **complex problems** with elegant code
-
----
-
 ## 🔗 Connect With Me
 
 - [🐙 GitHub Profile](https://github.com/Balloon69)
