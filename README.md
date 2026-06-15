@@ -1,4 +1,4 @@
-# 👋 สวัสดี ฉันชื่อ Balloon!
+# สวัสดี ฉันชื่อ Balloon!
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -7,10 +7,9 @@
 
 ---
 
-## 🙋 เกี่ยวกับฉัน
+## เกี่ยวกับฉัน
 
-ฉันเป็น**นักศึกษาชั้นปีที่ 3** สาขา *Computer Science* ที่หลงรักการเขียนโค้ดและชอบแก้ปัญหาด้วยเทคโนโลยี
-กำลังเรียนรู้เรื่อง **Web Development** และ *AI* อยู่ทุกวัน 🚀
+ฉันเป็น**นักศึกษาชั้นปีที่ 2** สาขา *IT* 
 
 ### ✨ ความสนใจหลัก
 
